@@ -1,3 +1,3 @@
-## Hi, I am Amin
+## Hi There
 
-<p align=left><img src=https://komarev.com/ghpvc/?username=ghaninia alt=ghaninia /></p>
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
