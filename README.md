@@ -43,7 +43,7 @@ if($youHaveLinkedin){
     $link = "mailto:mohamadaminghaninia@gmail.com " ;
 }
 
-sprintf('<a href=%s >%s</a>' , $link);
+sprintf('<a href=%s >Contant me</a>' , $link);
 
 </pre>
 <br>
