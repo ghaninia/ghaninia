@@ -19,3 +19,7 @@ a creative and talented programmer🤭 fun to work with, I always like to learn 
 
 | <a href="https://github.com/ghaninia/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ghaninia&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/ghaninia/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaninia&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
+<div align="center">
+<img alt="activity-graph" src="https://activity-graph.herokuapp.com/graph?username=ghaninia&hide_border=true&bg_color=00000000&point=00000000&color=1793D1&line=00000000&area=true&area_color=1793d1"></div>
