@@ -12,7 +12,11 @@
 
 
 <div align="left">
-a simple programmer 😊 fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experiment, learn, survive and thrive. Let's code for good.🎉
+<b>🚀 Backend Engineer | Open Source Enthusiast | Decentralization Advocate</b>
+
+Hey! I'm a passionate coder who's always eager to learn and share knowledge. Problem-solving is my thing, and collaboration makes it even better. Let's build a future where open-source drives innovation, and everyone has the freedom to explore, create, and grow. Coding isn't just a job—it's a movement. 🌱
+
+Let’s code for a better world. 🔥
 </div>
 
 <hr>
