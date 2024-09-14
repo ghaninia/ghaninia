@@ -19,6 +19,8 @@ Hey! I'm a passionate coder who's always eager to learn and share knowledge. Pro
 Let’s code for a better world. 🔥
 </div>
 
+<hr/>
+
 <div align="center">
 
 
