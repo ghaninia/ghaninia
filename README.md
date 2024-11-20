@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="assets/images/mahsa-amini.jpg" height="200">
-</div>
-
 <center>
 <h3>Hi there 👋 , I'm Amen </h3>
 
